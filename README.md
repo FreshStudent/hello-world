@@ -18,7 +18,7 @@
     }
 ```
 
-###### 2.List根据近特定字段升序排序（是的，我就是用来测试的 好吗？不好意思 你这逗逼）
+###### 2.List根据近特定字段升序排序（是的，我就是用来测试的 好吗？不好意思 你这逗逼，哈哈哈哈哈  说的就是你）
 ```
     //2016-1-18  AddBy  exportExcelList需要根据HisStandardCode升序排序
     Collections.sort(exportExcelList,new Comparator<MyMap>(){
