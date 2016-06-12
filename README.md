@@ -18,9 +18,9 @@
     }
 ```
 
-###### 2.List根据近特定字段升序排序
+###### 2.List根据近特定字段升序排序（是的  测试数据）
 ```
-    //2016-1-18  AddBy ql  exportExcelList需要根据HisStandardCode升序排序
+    //2016-1-18  AddBy  exportExcelList需要根据HisStandardCode升序排序
     Collections.sort(exportExcelList,new Comparator<MyMap>(){
         public int compare(MyMap map1,MyMap map2){
             String str1 = map1.get("HISSTANDARDCODE").toString();   
