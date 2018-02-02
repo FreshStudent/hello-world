@@ -1,4 +1,3 @@
 addfile
-addRemote master remote change
 addRemote  dev-local change
 addline1
