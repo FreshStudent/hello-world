@@ -1,0 +1,3 @@
+addfile
+addRemote  dev-local change
+addline1
