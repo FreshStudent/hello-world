@@ -1,8 +1,4 @@
 addfile
-<<<<<<< Updated upstream
 addRemote master remote change
-addRemote
-=======
 addRemote  dev-local change
->>>>>>> Stashed changes
 addline1
